@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 bool isTheGameStill(int board[3][3])
